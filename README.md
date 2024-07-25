@@ -31,3 +31,4 @@ Bu topshiriq `Docker Compose` bilan tanishishni ta'minlash uchun mo'ljallangan. 
 
 
 # uyga_vazifa_docke_compose
+# uyga_vazifa_docke_compose
